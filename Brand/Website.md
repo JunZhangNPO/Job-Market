@@ -1,2 +1,4 @@
 
-https://kieranhealy.org/
+- https://kieranhealy.org/
+
+- http://www.nicolasduquette.com/
